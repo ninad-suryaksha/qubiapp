@@ -1,0 +1,10 @@
+{
+  "name": "Quantum AR Explorer",
+  "description": "An interactive mobile-first AR quantum computing learning adventure guided by Qubi. Explore the dilution refrigerator, inspect qubits, and master 10 foundational quantum modules.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
